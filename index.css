@@ -1,0 +1,57 @@
+.box-part{
+    background-color:white;
+    margin:10px 5px;
+    padding:40px 10px;
+    border: 2px solid black;
+}
+
+p{
+    margin-left:60px;
+}
+
+h4{
+   margin-left:50px;
+}
+
+.box{
+    padding: 80px 0px;
+    border: 2px solid black;
+    margin: 80px 50px;
+}
+
+.container{
+    background-color:gainsboro
+   
+}
+
+.parent{
+    display:flex;
+    margin-left:300px;
+    margin-bottom:50px;
+}
+
+.parent>div{
+    border: 2px solid black;
+    
+}
+.text{
+    margin-left:20px;
+}
+.square{
+    border: 2px solid black;
+    padding:60px 55px;
+    margin-right:350px;
+    
+}
+.oval{
+    border-radius: 50%;
+    border-color: black
+    height:50px;
+    width:20px;
+}
+.parent1{
+    display:flex;
+}
+.parent1>div{
+    border:2px solid black;
+}
